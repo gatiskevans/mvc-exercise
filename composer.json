@@ -1,0 +1,6 @@
+{
+    "name": "gatis/mvc",
+    "require": {
+        "nikic/fast-route": "^1.3"
+    }
+}
